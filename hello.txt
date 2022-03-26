@@ -1,6 +1,7 @@
 aasfbasbh--version]--version]
 --version]
 aasfbasbh--aasfbasbh-- conflict of master
+aasfbasbh--aasfbasbh-- conflict of hot-fix
 version-2.0
 version-3.0
 fixed
